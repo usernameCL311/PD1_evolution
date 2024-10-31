@@ -21,6 +21,7 @@ Please contact Lin or Zhengting Zou <zouzhengting@ioz.ac.cn> for any inquiries o
 
 ### `1_script/`: This directory contains the scripts used in the molecular evolution analyses of the paper, with the following contents.
 
+#### `1_script/PD1_ASR.bash`: Bash script containing commands for the ASR analysis based on codon and amino acid alignments.
 #### `1_script/selection/`: This directory contains all Jupyter Notebook files `<Gene name>.ipynb` used for data cleaning and running hyphy for the selection analyses.
 
   ##### Notes for the `<Gene name>.ipynb` files: 
@@ -28,4 +29,3 @@ Please contact Lin or Zhengting Zou <zouzhengting@ioz.ac.cn> for any inquiries o
   - "MRCA" parts focus on the most recent common ancestor (MRCA) branch of the clade of species according to the methods described in the paper.
   - "within_clade" parts focus on all branches within the clade, excluding the MRCA branch, according to the method described in the paper.
 
-#### `1_script/PD1_ASR.bash`: Bash script containing commands for the ASR analysis based on codon and amino acid alignments.
