@@ -2,7 +2,7 @@
 
 Creators: Lin Chen <chenlin212@mails.ucas.ac.cn>  
 
-Please contact Lin or Zhengting<zouzhengting@ioz.ac.cn> for any inquiries or questions regarding the content and usage of this repository.
+Please contact Lin or Zhengting Zou <zouzhengting@ioz.ac.cn> for any inquiries or questions regarding the content and usage of this repository.
 
 ## Data
 
